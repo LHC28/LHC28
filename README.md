@@ -4,7 +4,7 @@
 
 <p align="center">
   I've used it at least once
-
+</p>
 
 <a href="https://instagram.com/chanchani2">
     <img 
@@ -12,7 +12,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-</p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"></a> &nbsp
