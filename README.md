@@ -6,12 +6,13 @@
   I've used it at least once
 </p>
 
+<p>
 <a href="https://instagram.com/chanchani2">
     <img 
         src="http://img.shields.io/badge/-Instagram-orange?style=flat&logo=Instagram&link=https://instagram.com/chanchani2/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
+</p>
 
 
 <p align="center">
