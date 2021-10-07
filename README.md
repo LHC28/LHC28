@@ -1,19 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?rounded=shark&color=auto&height=300&section=header&text=LHC28&fontSize=90)
 
-
+<hr>
 
 <p align="center">
   I've used it at least once
 </p>
-
-<p>
-<a href="https://instagram.com/chanchani2">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-orange?style=flat&logo=Instagram&link=https://instagram.com/chanchani2/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-</p>
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"></a> &nbsp
@@ -26,7 +17,15 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
+<hr>
 
+<p align="center">
+<a href="https://instagram.com/chanchani2">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-orange?style=flat&logo=Instagram&link=https://instagram.com/chanchani2/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHC28&show_icons=true&theme=radical)
 
